@@ -1,2 +1,5 @@
 # Hello-World-2
-This is my first repo
+hi WORLD 
+i am rideep
+I am trying to learn git and github
+thankx :)
